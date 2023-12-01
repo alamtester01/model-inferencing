@@ -1,0 +1,16 @@
+/* src/styles.css */
+.App {
+    text-align: center;
+  }
+  
+  .columns-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  
+  .column {
+    flex: 1;
+    margin: 10px;
+  }
+  
