@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modelinferencing/static/css/main.a193e325.css",
+    "main.js": "/modelinferencing/static/js/main.70f79bc8.js",
+    "index.html": "/modelinferencing/index.html",
+    "main.a193e325.css.map": "/modelinferencing/static/css/main.a193e325.css.map",
+    "main.70f79bc8.js.map": "/modelinferencing/static/js/main.70f79bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a193e325.css",
+    "static/js/main.70f79bc8.js"
+  ]
+}
